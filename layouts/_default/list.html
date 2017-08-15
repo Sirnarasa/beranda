@@ -1,17 +1,18 @@
 {{ partial "head" . }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/seni-kayu.jpg" "title" "Berita Terbaru") }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/seni-kayu.jpg" "title" "Kajian Terbaru") }}
 
 {{ partial "nav" . }}
 
 <div class="mw7 center">
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">   
-      {{ range .Data.Pages }}
-          <div class="mw6 center avenir">
-            {{ .Render "li"}}
-          </div>
-      {{ end }}
-  </ul>
-</div>
+    <ul class="flex-ns flex-wrap mhn1-ns pa3">
+        {{ range .Data.Pages }}
+            <div class="w-50-ns ph1-ns flex">
+              {{ .Render "li"}}
+            </div>
+        {{ end }}
+    </ul>
+  </div>
 
 {{ partial "footer" . }}
+  

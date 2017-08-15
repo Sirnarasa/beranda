@@ -3,8 +3,8 @@
 
 	<h2 class="f3 b lh-title mb1 primar ttc">{{ .Title }}</h2></a>
 	
-	{{ if .Params.image }}<a href="{{ .Permalink }}"><img class="w-100 dib measure f3 pb2" src="{{ .Params.image }}" alt="{{ .Title }}" /></a>{{ end }}
-	<p class="mid-gray lh-title mb2">{{ .Date.Format "2 Jan, 2006" }}</p>
+	{{ if .Params.image }}<a href="{{ .Permalink }}"><amp-img class="w-100 dib measure f3 pb2" width="512px" height="300px" layout="responsive" src="{{ .Params.image }}" alt="{{ .Title }}"></amp-img></a>{{ end }}
+	<small class="mid-gray lh-title mb2">{{ .Date.Format "2 Jan, 2006" }} - {{if .Params.author }}<a href="{{ .Params.authorlink }}"><strong>{{ .Params.author }}</strong></a>{{ end }}</small>
 	<p class="mb0">{{ .Description }}</p>
 	<p class="link b dib mb0"><a href="{{ .Permalink }}">Selanjutnya.. <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a></p>
 
