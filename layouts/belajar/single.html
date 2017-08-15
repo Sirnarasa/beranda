@@ -19,13 +19,13 @@
 {{ end }}
 
 <div class="pb4">
-  {{ range .Params.testimonials }}
+  {{ range .Params.deskripsi }}
     {{ partial "blockquote" . }}
   {{ end }}
 </div>
 
 <!-- Full-width image -->
-<img src="{{ .Params.full_image }}" alt="" class="db w-100">
+<img src="{{ .Params.full_image }}" alt="{{ .Title}}" class="db w-100">
 
 {{ partial "table" .Params.pricing }}
 

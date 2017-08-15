@@ -1,18 +1,17 @@
 ---
 title: Belajar di Sirnarasa
-type: products
-page: /products.html
-image: /img/masjid-1.jpg
+type: belajar
+page: /belajar.html
+image: /img/debaan-tiap-ahad.jpg
 heading: Kajembaran Rohmaniyyah
 description: >-
   Pesantren Peradaban Dunia dan Destinasi Wisata Religi dan Budaya Indonesia.
   Yayasan Pesantren Sirnarasa Cisiri, Kajembaran Rohmaniyyah.
 intro:
   blurbs:
-    - image: /img/Gerbang-Pasantren-Sirnarasa.jpg
+    - image: /img/gerbang.jpg
       text: >-
-        Gerbang Pasantren Sirnarasa "Kajembaran Rohmaniyyah" Saat Manakib
-        bulanan. Ikhwan wal Akhwat datang dari Dalam dan luar Negeri.
+        Gerbang Pasantren Sirnarasa "Kajembaran Rohmaniyyah" Adalah pintu masuk utama yang Akan Anda masuki ketika berkunjung ke Sirnarasa.
     - image: /img/debaan-tiap-ahad.jpg
       text: >-
         Sholawat Nabi (Debaan) yang dilaksanaksanakan tiap Ahad pagi di Masjid
@@ -27,10 +26,9 @@ intro:
         Manakib yang digelar setiap akhir bulan hijriyah yang bertempat di Komp.
         Pesantren Sirnarasa Cisirri. Ikhwan hadir dari seluruh pelosok Indonesia
         dan bahkan Luar Negri.
-  heading: Sedikit Tentang Sirnarasa?
+  heading: Ada Apa di Sirnarasa?
   description: >-
-    Sirnarasa adalah nama Pesantren yang bertempat di Dusun. Cisirri, Desa.
-    Ciomas Kecamatan Panjalu di Kabupaten Ciamis - Jawa Barat.
+    Di Pesantren Sirnarasa Anda dan Keluarga dapat belajar bersama di satu tempat. Kami memiliki fasilitas belajar untuk berbagai kalangan. Dari RA (TK) hingga Sekolah Tinggi Ilmu Dakwah (STID).
 main:
   heading: Lorem Heula
   description: >-
@@ -52,12 +50,12 @@ main:
   image3:
     alt: Coffee beans
     image: /img/seni-kayu.jpg
-testimonials:
+deskripsi:
   - author: Syeikh Muhammad Abdul Gaos.
     quote: 'Amankan, Amalkan, Lestarikan Manakib.'
   - author: Syeikh Muhammad Abdul Gaos.
     quote: 'Bicara benar, atau diam!'
-full_image: /img/Cover-Sirnarasa.jpg
+full_image: /img/cover-sirnarasa.jpg
 pricing:
   heading: Sirnarasa
   description: 'Untuk Kejayaan Agama, Negara, Ketahanan NKRI, dan Peradaban Dunia.'

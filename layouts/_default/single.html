@@ -1,5 +1,33 @@
 {{ partial "head" . }}
 {{ partial "nav" . }}
-{{ partial "jumbotron" (dict "imageUrl" "/img/7.jpg" "title" "This is where the heading goes" "subtitle" "This is where the subtitle goes") }}
-  {{ .Content }}
+
+<article class="baskerville pb5">
+<header class="avenir tc-l ph3 ph4-ns pt4 pt2-ns">
+    <h1 class="ttc f3 f2-m f-subheadline-l measure lh-title fw1 mt0"><strong>{{.Title}}</strong></h1><small class="f6 ttu tracked black">Oleh: {{if .Params.author }}<a href="{{ .Params.authorlink }}"><strong>{{ .Params.author }}</strong></a>{{ end }}
+    <time class="f5 f4-l db fw1 baskerville mb4"> {{ .Date.Format "2 Jan, 2006" }} - sekitar {{ .ReadingTime }} menit dibaca</time></small>
+    {{ if .Params.image }}<img class="w-100 dib measure f3 pb2" src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+  </header>
+  <div class="main main-raised">
+
+  <div class="ph3 ph4-m ph5-l">
+    <p class="f4 mb4 center measure lh-copy">
+      {{ .Description }} </p>
+    <div class="measure db center f5 f4-ns lh-copy">
+        {{ .Content }}
+      
+    </div>
+    
+  </div>
+</article>
+
+<div class="tc mb3">
+  <amp-social-share type="email"></amp-social-share>
+    <amp-social-share type="facebook"
+      data-param-app_id="1578179908906733"></amp-social-share>
+    <amp-social-share type="gplus"></amp-social-share>
+    <amp-social-share type="linkedin"></amp-social-share>
+    <amp-social-share type="twitter"></amp-social-share><br>
+			<a href="/post" class="btn btn-outline-warning raise">Artikel Lainnya <i class="fa fa-caret-right" aria-hidden="true"></i> 
+ </a></div>
+ <script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
 {{ partial "footer" . }}
