@@ -1,3 +1,0 @@
----
-title: Kajian Terbaru
----
