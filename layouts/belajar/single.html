@@ -21,10 +21,8 @@
 <div class="pb4">
   {{ range .Params.deskripsi }}
     {{ partial "blockquote" . }}
-  {{ end }
-  
+  {{ end }}
 </div>
-
 
 <!-- Full-width image -->
 <amp-img src="{{ .Params.full_image }}" alt="{{ .Title}}" height="675" width="900" class="db w-100"></amp-img>
