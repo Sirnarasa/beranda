@@ -21,12 +21,14 @@
 <div class="pb4">
   {{ range .Params.deskripsi }}
     {{ partial "blockquote" . }}
-  {{ end }}
+  {{ end }
+  
 </div>
 
-<!-- Full-width image -->
-<img src="{{ .Params.full_image }}" alt="{{ .Title}}" class="db w-100">
 
-{{ partial "table" .Params.pricing }}
+<!-- Full-width image -->
+<amp-img src="{{ .Params.full_image }}" alt="{{ .Title}}" height="675" width="900" class="db w-100"></amp-img>
+
+{{ partial "table" .Params.closing }}
 
 {{ partial "footer" . }}
