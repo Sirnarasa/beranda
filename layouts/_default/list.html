@@ -1,17 +1,16 @@
+{{define "main"}}
 {{ partial "head" . }}
-
-
 {{ partial "nav" . }}
 
 <div class="mw7 center">
     <ul class="flex-ns flex-wrap mhn1-ns pa3">
-        {{ range .Data.Pages.ByDate }}
+            {{ range .Paginator.Pages }}
             <div class="w-50-ns ph1-ns flex">
               {{ .Render "li"}}
             </div>
         {{ end }}
     </ul>
   </div>
-
+  {{ partial "pagination" . }}
 {{ partial "footer" . }}
-  
+{{end}}
