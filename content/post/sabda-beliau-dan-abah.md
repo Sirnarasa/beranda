@@ -27,4 +27,4 @@ Jangan terkecoh! Suka membaca berita?Lalu pernahkan Anda menemukan istilah 'abah
 Jika ada keyakinan selain itu, dengan kata lain bahwa mursyid kita saat ini ada selain beliau, maka kita sebagai murid tidaklah benar. Atau lebih parah lagi bila ada murid TQN yang menganggap wakil talqinnya sebagai mursyidnya, itu sangat tidak benar. 
 Ingat, sejak dulu qutbu zaman hanya ada satu pada masanya.
 
-#### Sumber: Nuqthoh 6 Mei, 2009 Halaman 40
+Sumber: Nuqthoh 6 Mei, 2009 Halaman 40
