@@ -16,15 +16,18 @@
      {{ .Description }} </p>	
        <div class="measure db center f5 f4-ns lh-copy">		
          {{ .Content }}		
-         <amp-facebook width="552" height="310" layout="responsive" data-href="{{ .Permalink }}">		
-         </amp-facebook>		
+         
        </div>		
- 		
+ 		<amp-facebook-comments width=486 height=657
+         layout="fixed-width"
+         data-numposts="5"
+         data-href="{{ .Permalink }}">
+     </amp-facebook-comments>
      </div>		
  </article>		
  		
  <div class="tc mb3">		
    <a href="/post" class="btn btn-outline-warning raise">Artikel Lainnya <i class="fa fa-caret-right" aria-hidden="true"></i> 		
   </a></div>		
- <script async custom-element="amp-facebook" src="https://cdn.ampproject.org/v0/amp-facebook-0.1.js"></script>		
+  <script async custom-element="amp-facebook-comments" src="https://cdn.ampproject.org/v0/amp-facebook-comments-0.1.js"></script>		
  {{ partial "footer" . }}
