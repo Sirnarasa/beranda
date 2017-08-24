@@ -1,11 +1,11 @@
 ---
 title: 'Gerak Gerik Ahli Marifat Adalah Bala Tentara Alloh'
-date: 2017-01-04T15:04:10.000Z
+date: 2017-08-23T15:04:10.000Z
 description: >-
   Pengetahuan kebanyakan orang tentang bala tentara itu adalah pasukan manusia saja. Padahal pasukan belalang pun di dalam salah satu keterangan dinyatakan:
-image: /img/post/bunga.jpg
-author: Latif
-authorlink: https://fb.com/AntiHacx
+image: /img/post/belalang.jpg
+author: Team Redaksi
+authorlink: "#"
 ---
 
 
@@ -25,4 +25,4 @@ Tidak kurang dari 37 tahun jalan, manakiban bukan mengurang apalagi menghilang, 
 
 *"Abah sangat menyadari bahwa usia sudah tidak muda lagi dan fisik sudah tidak sekuat dulu lagi. Oleh karena itu Abah percayakan."*
 
-
+Sumber: Nuqthoh - 4 Oktober, 2006 Hal. 20

@@ -4,7 +4,7 @@ date: 2017-08-24T15:04:10.000Z
 description: >-
   Di dalam Tanbih berbahasa Indonesia, ada kalimat 'Sabda beliau' yang ditunjukan kepada Abah Sepuh, Apakah tidak berlebihan?
 image: /img/post/sabda-beliau-dan-pangersa-abah.jpg
-author: Admin
+author: Team Redaksi
 authorlink: "#"
 ---
 
@@ -31,4 +31,4 @@ Dalam sholat, kita wajib membaca sholawat secara khusus kepada Nabi dan Rosul. S
 
 Nabi dan Rosul adalah manusia-manusia puluhan yang dijadikan tumpukan syiar Islam dan sebagai model manusia ideal yang didambakan oleh Alloh dan diharapkan diikuti oleh seluruh umat manusia. Sedangkan waliyuloh adalah manusia generasi pasca kenabian dan kerosulan yang juga terpilih untuk diberi kelebihan berbeda dari manusia yang lainnya.
 
-Sumber: Nuqthoh 6 Mei, 2009 Halaman 40
+Sumber: Nuqthoh - 6 Mei, 2009 Hal. 40
