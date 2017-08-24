@@ -5,7 +5,17 @@
    <header class="avenir tc-l ph3 ph4-ns pt4 pt2-ns">		
         {{ if .Params.image }}<img class="w-100 dib measure f3 pb2" src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}		<h1 class="ttc f3 f2-m f-subheadline-l measure lh-title fw1 mt0">{{.Title}}</h1>
         <small class="mb4 center">	Oleh: {{if .Params.author }}<a href="{{ .Params.authorlink }}"><strong>{{ .Params.author }}</strong></a>{{ end }} pada 		
-     <time> {{ .Date.Format "2 Jan, 2006" }} - sekitar {{ .ReadingTime }} menit membaca</time></small> 
+     <time> {{ .Date.Format "2 Jan, 2006" }} - sekitar {{ .ReadingTime }} menit membaca</time>
+     <br><amp-social-share type="facebook"
+     data-param-app_id="1578179908906733
+     "></amp-social-share>
+   <amp-social-share type="gplus"></amp-social-share>
+   <amp-social-share type="linkedin"></amp-social-share>
+   <amp-social-share type="pinterest"
+   {{ if .Params.image }}data-param-media="{{ .Params.image }}"{{ end }}></amp-social-share>
+   <amp-social-share type="twitter"></amp-social-share>
+   <amp-social-share type="whatsapp"></amp-social-share>
+    </small> 
      <hr><br>
    </header>		
    <div class="main main-raised">		
@@ -15,20 +25,16 @@
          
      {{ .Description }} </p>	
        <div class="measure db center f5 f4-ns lh-copy">		
-         {{ .Content }}		
-         <amp-facebook-comments width=486 height=657
-         layout="responsive"
-         data-numposts="5"
-         data-href="{{ .Permalink }}">
-     </amp-facebook-comments>
+         {{ .Content }}
+         <br>
+     </div>	
        </div>		
- 		
-     </div>		
+       	
  </article>		
  		
  <div class="tc mb3">	
    	
    <a href="/post" class="btn btn-outline-warning raise">Artikel Lainnya <i class="fa fa-caret-right" aria-hidden="true"></i> 		
   </a></div>		
-  <script async custom-element="amp-facebook-comments" src="https://cdn.ampproject.org/v0/amp-facebook-comments-0.1.js"></script>		
+  <script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>		
  {{ partial "footer" . }}
