@@ -27,6 +27,11 @@
        <div class="measure db center f5 f4-ns lh-copy">		
          {{ .Content }}
          <br>
+         <amp-facebook-like width=90 height=20
+         layout="fixed"
+         data-layout="button_count"
+         data-href="https://www.sirnarasa.org/{{ .Permalink }}">
+     </amp-facebook-like>
      </div>	
        </div>		
        	
@@ -40,6 +45,7 @@
 </amp-facebook-comments><br>
    <a href="/post" class="btn btn-outline-warning raise">Kajian Lainnya <i class="fa fa-caret-right" aria-hidden="true"></i> 		
   </a></div>		
+  <script async custom-element="amp-facebook-like" src="https://cdn.ampproject.org/v0/amp-facebook-like-0.1.js"></script>
   <script async custom-element="amp-facebook-comments" src="https://cdn.ampproject.org/v0/amp-facebook-comments-0.1.js"></script>
   <script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>		
  {{ partial "footer" . }}

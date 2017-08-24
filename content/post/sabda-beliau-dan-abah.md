@@ -1,5 +1,5 @@
 ---
-title: Sabda Beliau dan Pangersa Abah
+title: '"Sabda Beliau" dan Pangersa "Abah"'
 date: 2017-08-24T15:04:10.000Z
 description: >-
   Di dalam Tanbih berbahasa Indonesia, ada kalimat 'Sabda beliau' yang ditunjukan kepada Abah Sepuh, Apakah tidak berlebihan?
@@ -26,5 +26,9 @@ Ini masalah bahasa atau nama panggilan seseorang. Terserah kepada mereka yang ma
 Jangan terkecoh! Suka membaca berita?Lalu pernahkan Anda menemukan istilah 'abah anom' ada di daerah selain Suryalaya? Beberapa bulan yang lalu ada isu pangersa Abah telah wafat, dan ternyata 'abah anom' yang dimaksud adalah 'abah anom'  selain yang di Suryalaya. Jadi yang harus diperkuat adalah keyakinan kita bahwa satu-satunya guru Mursyid kita adalah pangersa Abah Anom yang namanya Syeikh Ahmad Shohibul Wafa Tajul Arifin.
 Jika ada keyakinan selain itu, dengan kata lain bahwa mursyid kita saat ini ada selain beliau, maka kita sebagai murid tidaklah benar. Atau lebih parah lagi bila ada murid TQN yang menganggap wakil talqinnya sebagai mursyidnya, itu sangat tidak benar. 
 Ingat, sejak dulu qutbu zaman hanya ada satu pada masanya.
+
+Dalam sholat, kita wajib membaca sholawat secara khusus kepada Nabi dan Rosul. Sedangkan kepada wali, itu tidak ada. Itu saja contohnya.
+
+Nabi dan Rosul adalah manusia-manusia puluhan yang dijadikan tumpukan syiar Islam dan sebagai model manusia ideal yang didambakan oleh Alloh dan diharapkan diikuti oleh seluruh umat manusia. Sedangkan waliyuloh adalah manusia generasi pasca kenabian dan kerosulan yang juga terpilih untuk diberi kelebihan berbeda dari manusia yang lainnya.
 
 Sumber: Nuqthoh 6 Mei, 2009 Halaman 40
