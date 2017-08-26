@@ -6,7 +6,7 @@ tags: ["sirnarasa"]
 description: >-
   Deskripsi disini.
 image: /img/post/phototoon.jpg
-author: Latif
-authorlink: https://fb.com/AntiHacx
+author: Team Redaksi
+authorlink: "#"
 ---
 
