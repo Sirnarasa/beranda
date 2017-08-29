@@ -5,7 +5,7 @@ categories: ["mpkj", ""]
 tags: ["sirnarasa"]
 description: >-
   Di dalam surat al-Kahfi Alloh SWT mengamankan para pemuda pecinta kesucian jiwa, ditidurkan selama 309 tahun.
-image: 
+image: /img/post/ashhabul-kahfi.jpg
 author: Team Redaksi
 authorlink: "#"
 ---
